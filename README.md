@@ -1,3 +1,3 @@
 # darkmode-card
 
-Responsive card with Darkmode and light mode options
+Responsive card with Darkmode and Lightmode options
